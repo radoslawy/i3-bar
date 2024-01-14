@@ -1,8 +1,9 @@
 bar {
+	position top
         status_command i3status
-				font pango:monospace 10
-				separator_symbol ":|:"
-				 colors {
+	font pango:monospace 10
+	separator_symbol ":|:"
+	colors {
         background #282A36 
         statusline #F8F8F2 
 				
